@@ -1,7 +1,11 @@
 # Munch PE Plus ROM Releases
 
 ## About -
-I am building this PE Plus rom for POCO F4 / Redmi K40s, this will also have some extra features as compared to standard PE Plus. OTA updates are not working for now but you can always update by dirty flashing new build without wiping anything. 
+I am building this PE Plus rom for POCO F4 / Redmi K40s, this will also have some extra features as compared to standard PE Plus as listed below. OTA updates are not working for now but you can always update by dirty flashing new build without wiping anything. I will try to keep this rom updated.
+
+## Extra Features -
+- Schedule reboot, performance slider, cpu governor change dropdown
+- Better privacy indicators, charging indicator, cpu info overlay tile
 
 ## Instructions to flash -
 1. Have unlocked bootloader and be on latest MIUI
