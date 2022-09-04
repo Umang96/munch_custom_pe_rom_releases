@@ -6,6 +6,7 @@ I am building this PE Plus rom for POCO F4 / Redmi K40s, this will also have som
 ## Extra Features -
 - Schedule reboot, performance slider, cpu governor change dropdown
 - Better privacy indicators, charging indicator, cpu info overlay tile
+- Per app refresh rate with option to force min refresh when in landscape
 - Both rom and kernel + dt side performance improvements
 
 ## Instructions to flash -
